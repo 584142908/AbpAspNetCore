@@ -1,0 +1,15 @@
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\bin\Debug\net6.0\LFL.AbpProject.Application.deps.json
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\bin\Debug\net6.0\LFL.AbpProject.Application.dll
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\bin\Debug\net6.0\ref\LFL.AbpProject.Application.dll
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\bin\Debug\net6.0\LFL.AbpProject.Application.pdb
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\bin\Debug\net6.0\LFL.AbpProject.Application.Contracts.dll
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\bin\Debug\net6.0\LFL.AbpProject.Application.Contracts.pdb
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\obj\Debug\net6.0\LFL.AbpProject.Application.csproj.AssemblyReference.cache
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\obj\Debug\net6.0\LFL.AbpProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\obj\Debug\net6.0\LFL.AbpProject.Application.AssemblyInfoInputs.cache
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\obj\Debug\net6.0\LFL.AbpProject.Application.AssemblyInfo.cs
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\obj\Debug\net6.0\LFL.AbpProject.Application.csproj.CoreCompileInputs.cache
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\obj\Debug\net6.0\LFL.AbpProject.Application.csproj.CopyComplete
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\obj\Debug\net6.0\LFL.AbpProject.Application.dll
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\obj\Debug\net6.0\ref\LFL.AbpProject.Application.dll
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.Application\obj\Debug\net6.0\LFL.AbpProject.Application.pdb

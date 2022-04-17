@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LFL.AbpProject.Web")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LFL.AbpProject.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LFL.AbpProject.Web")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LFL.AbpProject.Web")]
+[assembly: System.Reflection.AssemblyProductAttribute("LFL.AbpProject.web")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LFL.AbpProject.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

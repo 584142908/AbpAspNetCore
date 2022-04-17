@@ -8,5 +8,12 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.4" />
     <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="5.2.0" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="5.2.0" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LFL.AbpProject.Application.Contracts\LFL.AbpProject.Application.Contracts.csproj" />
+    <ProjectReference Include="..\LFL.AbpProject.Application\LFL.AbpProject.Application.csproj" />
+  </ItemGroup>
+
 </Project>
