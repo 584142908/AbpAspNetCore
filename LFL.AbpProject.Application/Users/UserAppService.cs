@@ -1,8 +1,10 @@
 ﻿using LFL.AbpProject.Application.Contracts.Users;
+using Volo.Abp;
+using Volo.Abp.DependencyInjection;
 
 namespace LFL.AbpProject.Application.Users
 {
-    public class UserAppService : IUserAppService
+    public class UserAppService : IUserAppService, IRemoteService, ITransientDependency //IApplicationService
     {
         public async Task<UserDto> GetUserAsync(int Id)
         {

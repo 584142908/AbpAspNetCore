@@ -412,3 +412,7 @@ E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.web\bin\Debug\net6.0\LF
 E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.web\bin\Debug\net6.0\LFL.AbpProject.Application.dll
 E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.web\bin\Debug\net6.0\LFL.AbpProject.Application.Contracts.pdb
 E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.web\bin\Debug\net6.0\LFL.AbpProject.Application.pdb
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Study\work\AbpAspNetCore\AbpAspNetCore\LFL.AbpProject.web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
